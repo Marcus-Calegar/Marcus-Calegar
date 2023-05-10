@@ -14,4 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mav-26&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mav-26&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mav-26&layout=compact&theme=dark)](https://github.com/mav-26/github-readme-stats)
