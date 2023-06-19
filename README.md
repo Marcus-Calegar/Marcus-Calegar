@@ -1,6 +1,7 @@
 ## Ola! Eu sou Marcus
 
 - 🌱 Estudando C#
+- 🍃 Me tornando programadaro full-stack
 
 <picture>
 <source
