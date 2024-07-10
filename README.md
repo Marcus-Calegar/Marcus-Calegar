@@ -1,6 +1,6 @@
-## Ola! Eu sou Marcus
+## Olá! Eu sou Marcus
 
-- Conhecimento em: HTML/CSS/JS, C#, Node.js básico, php, MySQL Workbench 
+- Tenho conhecimento em: HTML/CSS/JS, C#, Node.js básico, php, MySQL Workbench 
 
 <picture>
 <source
@@ -14,4 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Marcus-Calegar&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mav-26&layout=compact&theme=dark)](https://github.com/mav-26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Calegar&layout=compact&theme=dark)](https://github.com/Marcus-Calegar/github-readme-stats)
