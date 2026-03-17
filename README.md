@@ -25,6 +25,14 @@ Atualmente curso **Ciência da Computação** e me dedico ao desenvolvimento **F
 **Banco de Dados:**  
 > MySQL • Oracle SQL
 
+---
+
+## 📫 Contato
+
+* 📧 Email: [calegarmarcus@gmail.com](mailto:calegarmarcus@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/marcuscalegar/
+* 🐙 GitHub: https://github.com/Marcus-Calegar
+
 --- 
 
 Acredito que a tecnologia tem o poder de transformar ideias em soluções que impactam positivamente o mundo.  
